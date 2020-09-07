@@ -1,5 +1,5 @@
 import setuptools
-#from stock_analysis import __version__ as version
+# from stock_analysis import __version__ as version
 
 with open("README.md", "r") as fh:
     long_description = fh.read()
@@ -19,9 +19,9 @@ setuptools.setup(
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
-        'Topic :: Finance :: stocks',
+        "Topic :: Office/Business :: Financial :: Investment",
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    python_requires='>=3.6',
+    python_requires='>=3.5',
 )
