@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Sep  6 14:06:00 2020
-
-@author: USTCwcy
-"""
-
 import setuptools
 from stock_analysis import __version__ as version
 
@@ -14,7 +7,7 @@ with open("README.md", "r") as fh:
 setuptools.setup(
     name="stock_analysis", # Replace with your own username
     version=version,
-    keywords=['stock technique analysis', 'investment', 'python'],
+    keywords=['stock analysis techniques', 'investment', 'python'],
     install_requires=['numpy', 'matplotlib', 'pandas', 'pandas_datareader', 'datetime'],
     author="Chuangye Wang",
     author_email="ustcwcy@gmail.com",
