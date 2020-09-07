@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="stock_analysis", # Replace with your own username
-    version='python 3.7',
+    version='Python 3.7.6',
     keywords=['stock analysis techniques', 'investment', 'python'],
     install_requires=['numpy', 'matplotlib', 'pandas', 'pandas_datareader', 'datetime'],
     author="Chuangye Wang",
