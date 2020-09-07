@@ -22,7 +22,7 @@ setuptools.setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     license='MIT',
-    url="https://github.com/Chuangye-Wang/stock_analysis",
+    url="https://github.com/Chuangye-Wang/StocksAnalysis",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
