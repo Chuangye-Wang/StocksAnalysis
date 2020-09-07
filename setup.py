@@ -1,12 +1,12 @@
 import setuptools
-from stock_analysis import __version__ as version
+#from stock_analysis import __version__ as version
 
 with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
     name="stock_analysis", # Replace with your own username
-    version=version,
+    version='python 3.7',
     keywords=['stock analysis techniques', 'investment', 'python'],
     install_requires=['numpy', 'matplotlib', 'pandas', 'pandas_datareader', 'datetime'],
     author="Chuangye Wang",
