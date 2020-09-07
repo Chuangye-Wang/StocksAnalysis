@@ -1,3 +1,4 @@
-## Stocks Analysis
-### It analyzes the price change of stocks by techniques like MACD, RSI, MA, BB.
-### It also calculate the return rate of investment portfolio.
+-------
+This is a package for analyzing stocks with different techniques such as moving average (MA), 
+relative strength index (RSI), bollinger bands, moving average convergence divergence (MACD).
+It also includes the calculation of investment portfolio, plots of tickers.
